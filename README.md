@@ -10,8 +10,8 @@ You can download the Sen 1-2 Dataset: https://mediatum.ub.tum.de/1436631
 
 ## U-Net Model
 
-U2Fusion is an unsupervised fusion algorithm originally founded for problems like multi-focus and multi-exposure image fusion. 
-https://ieeexplore.ieee.org/document/9151265
+U2Fusion is an unsupervised fusion algorithm originally founded for problems like multi-focus and multi-exposure image fusion. https://ieeexplore.ieee.org/document/9151265
+
 In this project, the U2Fusion algorithm has been modified and adapted to fuse a Synthetic Aperture Radar (SAR) and Optical (Multi-Spectral) Images to produce a single, high-resolution colorized SAR image. 
 
 ## Contributors
